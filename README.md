@@ -1,6 +1,6 @@
 # ToDoList Application
 
-A simple flutter based todolist hybrid application implemented with Sqflite database.
+A simple flutter based todo list hybrid application implemented with Sqflite database.
 
 # Requirements
 * iOS 8.0 or above
@@ -8,9 +8,11 @@ A simple flutter based todolist hybrid application implemented with Sqflite data
 * Build with Android Studio 4.0.1
 
 # Getting Started 🚀
-'- Clone the repo'
-'- Install the dependicies'
-'- Run it'
+```
+- Clone the repo
+- Install the dependicies
+- Run it
+```
 
 A few resources to get you started if this is your first Flutter project:
 
