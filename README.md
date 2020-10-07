@@ -1,10 +1,16 @@
-# todolist_app
+# ToDoList Application
 
-A new Flutter application.
+A simple flutter based todolist hybrid application implemented with Sqflite database.
 
-## Getting Started
+# Requirements
+* iOS 8.0 or above
+* Android 4.1 - Jelly Bean (API 16) or above
+* Build with Android Studio 4.0.1
 
-This project is a starting point for a Flutter application.
+# Getting Started 🚀
+'- Clone the repo'
+'- Install the dependicies'
+'- Run it'
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -14,3 +20,20 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+# Tools
+  * Android Studio
+  * Android Virtual Device
+  * Samsung Galaxy S5
+
+# Libraries
+* [Sqflite](https://pub.dev/packages/sqflite)
+* [Path_Provider](https://pub.dev/packages/path_provider)
+* [Intl](https://pub.dev/packages/intl)
+
+# Support
+Please [open an issue](https://github.com/abdullahabbasi852/ToDoList/issues) for support or even more [open a pull request](https://github.com/abdullahabbasi852/ToDoList/pulls).
+
+# License
+Feel free to use and modify this source code.
